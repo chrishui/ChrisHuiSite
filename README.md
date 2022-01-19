@@ -14,6 +14,4 @@ Repository for my personal website
 * Static S3 Hosted Website
 * Cloudfront Distribution and ACM Cert for SSL
 
-### License
-
 
