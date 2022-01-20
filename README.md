@@ -1,6 +1,6 @@
 # ChrisHuiSite
 
-Repository for my personal website
+Repository for my personal website.
 
 ### Completion:
 
